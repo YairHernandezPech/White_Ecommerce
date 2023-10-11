@@ -1,5 +1,9 @@
+.secctions1{
+  background-color: rgb(211, 210, 210);
+}
 .imgslogo{
     width: 420px;
+    object-fit: contain;
 }
 .modas{
     height: 300px;
