@@ -2,8 +2,9 @@
     width: 420px;
 }
 .modas{
-    height: 250px;
+    height: 300px;
     width: 100px;
+    object-fit: contain;
 }
 
   .carousel-control-prev,
